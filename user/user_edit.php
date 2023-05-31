@@ -1,4 +1,4 @@
-<?php include "connection.php" ?>
+<?php include "../connection.php" ?>
 <?php
 $id = $_GET['id'];
 // Fetech user data based on id
